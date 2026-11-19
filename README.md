@@ -1,7 +1,7 @@
 # pbix-car-sales-dashboard
 # Business Intelligence (BI) Learning
 
-This repository contains my BI exercises and projects.
+This repository contains my BI exercises and projects. Interactive Power BI dashboard analyzing automotive sales performance, product trends, regional distribution, and key business KPIs.
 
 ## Topics
 
